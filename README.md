@@ -11,6 +11,7 @@ Store >> Configuration >> Catalog >> Storefront >> List Mode select as "Expand (
 Clear cache and you can see additional mode on category listing page.
 
 <b>About me:</b>
+<br/>
 Passionate, Smart working, Quick learner and Solution oriented developer in E-commerce technology.
 
 I have 8 years of experiance as Magento Backend Developer with all type of customization and services I have provided like
@@ -26,6 +27,7 @@ Speed Optimization
 I have a sound knowlege of Magebto 1 and Magento 2 Framework as a certified developer ( https://u.magento.com/certification/directory/dev/521846/ ) and want to provide good service and quality work as freelancer.
 
 <b>Contact Info:</b>
+<br/>
 Name: Darshan Modi
 Email: darshan.mcoder@gmail.com
 Skype: darshan.mcoder
