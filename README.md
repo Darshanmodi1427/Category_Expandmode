@@ -28,9 +28,9 @@ I have a sound knowlege of Magebto 1 and Magento 2 Framework as a certified deve
 
 <b>Contact Info:</b>
 <br/>
-Name: Darshan Modi
-Email: darshan.mcoder@gmail.com
-Skype: darshan.mcoder
-Mobile/Whatsapp: +91 8000672585
+Name: Darshan Modi<br/>
+Email: darshan.mcoder@gmail.com<br/>
+Skype: darshan.mcoder<br/>
+Mobile/Whatsapp: +91 8000672585<br/>
 Thanks :)
 
