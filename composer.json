@@ -1,0 +1,17 @@
+{
+    "name": "darsh/magento2-expandmode",
+    "description": "Category page custom view mode",
+    "version": "1.0.0",
+    "require": {
+        "magento/module-backend": "~100.0.0"
+    },
+    "type": "magento2-module",
+    "extra": {
+        "map": [
+            [
+                "*",
+                "Darsh/Expandmode"
+            ]
+        ]
+    }
+}
